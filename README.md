@@ -1,5 +1,5 @@
 # Server-Start_Minecraft
-###Features
+### Features
 - Reboot the server when stopped
 - Make a backup archive of the entire server folder
 - Choose the schedule range for the backup

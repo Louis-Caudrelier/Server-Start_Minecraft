@@ -7,3 +7,5 @@
 - Choose your server directory
 - Choose your java starting command and arguments
 - Wait a certain amount of seconds before starting the server
+
+Language: French

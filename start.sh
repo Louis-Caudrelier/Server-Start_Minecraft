@@ -108,6 +108,7 @@ while [ $looping  = true ]; do
 		unset -v stampNow
 		unset -v stampDebut
 		unset -v stampFin
+		unset -v startTime
 		unset -v endTime
 		unset -v exectionTime
 		unset -v dateTime
